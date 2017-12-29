@@ -1,0 +1,5678 @@
+set the path of drive executable2017-11-12 14:02:35,259Driver
+open chrome browser2017-11-12 14:02:35,280Driver
+enter the url2017-11-12 14:02:47,618Driver
+start-executeSteps2017-11-12 14:02:48,096Driver
+Desc:2017-11-12 14:02:48,099Driver
+keyword1:2017-11-12 14:02:48,100Driver
+keyword2:2017-11-12 14:02:48,101Driver
+keyword3:2017-11-12 14:02:48,102Driver
+end-executeScripts2017-11-12 14:02:48,103Driver
+start-executekeyword2017-11-12 14:02:48,104Driver
+set the path of drive executable2017-11-12 14:03:24,552Driver
+open chrome browser2017-11-12 14:03:24,558Driver
+enter the url2017-11-12 14:03:29,167Driver
+start-executeSteps2017-11-12 14:03:29,545Driver
+Desc:2017-11-12 14:03:29,548Driver
+keyword1:2017-11-12 14:03:29,549Driver
+keyword2:2017-11-12 14:03:29,551Driver
+keyword3:2017-11-12 14:03:29,552Driver
+end-executeScripts2017-11-12 14:03:29,552Driver
+start-executekeyword2017-11-12 14:03:29,554Driver
+set the path of drive executable2017-11-12 14:05:53,344Driver
+open chrome browser2017-11-12 14:05:53,350Driver
+enter the url2017-11-12 14:05:57,847Driver
+start-executeSteps2017-11-12 14:05:58,199Driver
+Desc:2017-11-12 14:05:58,202Driver
+keyword1:2017-11-12 14:05:58,203Driver
+keyword2:2017-11-12 14:05:58,204Driver
+keyword3:2017-11-12 14:05:58,205Driver
+end-executeScripts2017-11-12 14:05:58,205Driver
+start-executekeyword2017-11-12 14:05:58,207Driver
+set the path of drive executable2017-11-12 14:09:01,400Driver
+open chrome browser2017-11-12 14:09:01,405Driver
+enter the url2017-11-12 14:09:06,505Driver
+start-executeSteps2017-11-12 14:09:06,829Driver
+Desc:2017-11-12 14:09:06,832Driver
+keyword1:2017-11-12 14:09:06,833Driver
+keyword2:2017-11-12 14:09:06,834Driver
+keyword3:2017-11-12 14:09:06,835Driver
+end-executeScripts2017-11-12 14:09:06,835Driver
+start-executekeyword2017-11-12 14:09:06,837Driver
+set the path of drive executable2017-11-12 14:10:25,195Driver
+open chrome browser2017-11-12 14:10:25,201Driver
+enter the url2017-11-12 14:10:29,871Driver
+start-executeSteps2017-11-12 14:10:32,246Driver
+Desc:2017-11-12 14:10:32,368Driver
+keyword1:2017-11-12 14:10:32,369Driver
+keyword2:2017-11-12 14:10:32,370Driver
+keyword3:2017-11-12 14:10:32,370Driver
+end-executeScripts2017-11-12 14:10:32,371Driver
+start-executekeyword2017-11-12 14:10:32,383Driver
+set the path of drive executable2017-11-12 14:17:14,426Driver
+open chrome browser2017-11-12 14:17:14,431Driver
+enter the url2017-11-12 14:17:19,120Driver
+start-executeSteps2017-11-12 14:17:22,068Driver
+Desc:Enter 'Admin' in UN2017-11-12 14:17:25,592Driver
+keyword1:enter2017-11-12 14:17:25,667Driver
+keyword2:2017-11-12 14:17:25,668Driver
+keyword3:2017-11-12 14:17:25,669Driver
+end-executeScripts2017-11-12 14:17:25,670Driver
+start-executekeyword2017-11-12 14:17:25,686Driver
+set the path of drive executable2017-11-12 14:20:56,479Driver
+open chrome browser2017-11-12 14:20:56,485Driver
+enter the url2017-11-12 14:21:01,293Driver
+start-executeSteps2017-11-12 14:21:03,677Driver
+Desc:Enter 'Admin' in UN2017-11-12 14:21:05,131Driver
+keyword1:enter2017-11-12 14:21:05,208Driver
+keyword2:2017-11-12 14:21:05,210Driver
+keyword3:2017-11-12 14:21:05,210Driver
+end-executeScripts2017-11-12 14:21:05,211Driver
+start-executekeyword2017-11-12 14:21:05,212Driver
+set the path of drive executable2017-11-12 14:28:36,592Driver
+open chrome browser2017-11-12 14:28:36,598Driver
+enter the url2017-11-12 14:28:41,293Driver
+start-executeSteps2017-11-12 14:28:43,680Driver
+Desc:Enter 'Admin' in UN2017-11-12 14:28:45,140Driver
+keyword1:enter2017-11-12 14:28:45,212Driver
+keyword2:2017-11-12 14:28:45,213Driver
+keyword3:2017-11-12 14:28:45,214Driver
+end-executeScripts2017-11-12 14:28:45,214Driver
+start-executekeyword2017-11-12 14:28:45,216Driver
+set the path of drive executable2017-11-12 14:32:54,000Driver
+open chrome browser2017-11-12 14:32:54,007Driver
+enter the url2017-11-12 14:32:58,624Driver
+start-executeSteps2017-11-12 14:33:00,975Driver
+Desc:Enter 'Admin' in UN2017-11-12 14:33:02,361Driver
+keyword1:enter2017-11-12 14:33:02,445Driver
+keyword2://input[@id='un']2017-11-12 14:33:02,516Driver
+keyword3:admin2017-11-12 14:33:02,573Driver
+end-executeScripts2017-11-12 14:33:02,574Driver
+start-executekeyword2017-11-12 14:33:02,579Driver
+end-executekeyword2017-11-12 14:33:02,816Driver
+quit the browser2017-11-12 14:33:02,816Driver
+set the path of drive executable2017-11-12 14:35:17,571Driver
+open chrome browser2017-11-12 14:35:17,576Driver
+enter the url2017-11-12 14:35:22,065Driver
+start-executeSteps2017-11-12 14:35:24,821Driver
+Desc:Enter 'Admin' in UN2017-11-12 14:35:26,226Driver
+keyword1:enter2017-11-12 14:35:26,300Driver
+keyword2://input[@id='un']2017-11-12 14:35:26,362Driver
+keyword3:admin2017-11-12 14:35:26,427Driver
+end-executeScripts2017-11-12 14:35:26,427Driver
+start-executekeyword2017-11-12 14:35:26,440Driver
+end-executekeyword2017-11-12 14:35:26,649Driver
+quit the browser2017-11-12 14:35:26,650Driver
+set the path of drive executable2017-11-13 13:25:12,189Driver
+open chrome browser2017-11-13 13:25:12,248Driver
+enter the url2017-11-13 13:25:29,091Driver
+start-executeSteps2017-11-13 13:25:54,646Driver
+Desc:Enter 'Admin' in UN2017-11-13 13:26:54,215Driver
+keyword1:enter2017-11-13 13:27:03,101Driver
+keyword2://input[@id='un']2017-11-13 13:27:54,922Driver
+keyword3:admin2017-11-13 13:28:56,576Driver
+end-executeScripts2017-11-13 13:28:59,694Driver
+start-executekeyword2017-11-13 13:29:03,330Driver
+end-executekeyword2017-11-13 13:29:04,408Driver
+quit the browser2017-11-13 13:29:18,961Driver
+set the path of drive executable2017-11-13 13:52:56,331Driver
+open chrome browser2017-11-13 13:52:56,337Driver
+enter the url2017-11-13 13:53:01,170Driver
+start-executeSteps2017-11-13 13:53:03,571Driver
+step count:22017-11-13 13:53:05,012Driver
+--------start step:1---------2017-11-13 13:53:05,012Driver
+Desc:Enter 'Admin' in UN2017-11-13 13:53:05,099Driver
+keyword1:enter2017-11-13 13:53:05,169Driver
+keyword2://input[@id='un']2017-11-13 13:53:05,221Driver
+keyword3:admin2017-11-13 13:53:05,272Driver
+end-executeScripts2017-11-13 13:53:05,273Driver
+start-executekeyword2017-11-13 13:53:05,274Driver
+end-executekeyword2017-11-13 13:53:05,501Driver
+--------End step:1---------2017-11-13 13:53:05,501Driver
+--------start step:2---------2017-11-13 13:53:05,502Driver
+Desc:Enter 'qspiders' in PW2017-11-13 13:53:05,568Driver
+keyword1:enter2017-11-13 13:53:05,616Driver
+keyword2://input[@name='pw']2017-11-13 13:53:05,675Driver
+keyword3:qspiders2017-11-13 13:53:05,719Driver
+end-executeScripts2017-11-13 13:53:05,719Driver
+start-executekeyword2017-11-13 13:53:05,720Driver
+end-executekeyword2017-11-13 13:53:05,928Driver
+--------End step:2---------2017-11-13 13:53:05,928Driver
+quit the browser2017-11-13 13:53:05,929Driver
+set the path of drive executable2017-11-13 14:07:15,010Driver
+open chrome browser2017-11-13 14:07:15,016Driver
+enter the url2017-11-13 14:07:19,578Driver
+start-executeSteps2017-11-13 14:07:21,990Driver
+step count:32017-11-13 14:07:23,403Driver
+--------start step:1---------2017-11-13 14:07:23,404Driver
+Desc:Enter 'Admin' in UN2017-11-13 14:07:23,492Driver
+keyword1:enter2017-11-13 14:07:23,553Driver
+keyword2://input[@id='un']2017-11-13 14:07:23,623Driver
+keyword3:admin2017-11-13 14:07:23,677Driver
+end-executeScripts2017-11-13 14:07:23,677Driver
+start-executekeyword2017-11-13 14:07:23,679Driver
+end-executekeyword2017-11-13 14:07:23,899Driver
+--------End step:1---------2017-11-13 14:07:23,899Driver
+--------start step:2---------2017-11-13 14:07:23,899Driver
+Desc:Enter 'qspiders' in PW2017-11-13 14:07:23,969Driver
+keyword1:enter2017-11-13 14:07:24,020Driver
+keyword2://input[@name='pw']2017-11-13 14:07:24,075Driver
+keyword3:qspiders2017-11-13 14:07:24,130Driver
+end-executeScripts2017-11-13 14:07:24,131Driver
+start-executekeyword2017-11-13 14:07:24,131Driver
+end-executekeyword2017-11-13 14:07:24,326Driver
+--------End step:2---------2017-11-13 14:07:24,327Driver
+--------start step:3---------2017-11-13 14:07:24,327Driver
+Desc:click Login2017-11-13 14:07:24,371Driver
+keyword1:click2017-11-13 14:07:24,421Driver
+keyword2://input[@value='login']2017-11-13 14:07:24,460Driver
+keyword3:2017-11-13 14:07:24,508Driver
+end-executeScripts2017-11-13 14:07:24,508Driver
+start-executekeyword2017-11-13 14:07:24,508Driver
+end-executekeyword2017-11-13 14:07:24,701Driver
+--------End step:3---------2017-11-13 14:07:24,702Driver
+quit the browser2017-11-13 14:07:24,702Driver
+set the path of drive executable2017-11-13 14:19:32,314Driver
+open chrome browser2017-11-13 14:19:32,320Driver
+enter the url2017-11-13 14:19:36,914Driver
+start-executeSteps2017-11-13 14:19:39,299Driver
+step count:32017-11-13 14:19:40,690Driver
+--------start step:1---------2017-11-13 14:19:40,690Driver
+Desc:Enter 'Admin' in UN2017-11-13 14:19:40,774Driver
+keyword1:enter2017-11-13 14:19:40,839Driver
+keyword2://input[@id='un']2017-11-13 14:19:40,906Driver
+keyword3:admin2017-11-13 14:19:40,961Driver
+end-executeScripts2017-11-13 14:19:40,961Driver
+start-executekeyword2017-11-13 14:19:40,962Driver
+end-executekeyword2017-11-13 14:19:41,183Driver
+--------End step:1---------2017-11-13 14:19:41,183Driver
+--------start step:2---------2017-11-13 14:19:41,183Driver
+Desc:Enter 'qspiders' in PW2017-11-13 14:19:41,244Driver
+keyword1:enter2017-11-13 14:19:41,322Driver
+keyword2://input[@name='pw']2017-11-13 14:19:41,386Driver
+keyword3:qspiders2017-11-13 14:19:41,432Driver
+end-executeScripts2017-11-13 14:19:41,433Driver
+start-executekeyword2017-11-13 14:19:41,433Driver
+end-executekeyword2017-11-13 14:19:41,634Driver
+--------End step:2---------2017-11-13 14:19:41,635Driver
+--------start step:3---------2017-11-13 14:19:41,635Driver
+Desc:click Login2017-11-13 14:19:41,677Driver
+keyword1:click2017-11-13 14:19:41,718Driver
+keyword2://input[@value='login']2017-11-13 14:19:41,758Driver
+keyword3:2017-11-13 14:19:41,800Driver
+end-executeScripts2017-11-13 14:19:41,801Driver
+start-executekeyword2017-11-13 14:19:41,810Driver
+end-executekeyword2017-11-13 14:19:41,999Driver
+--------End step:3---------2017-11-13 14:19:42,000Driver
+quit the browser2017-11-13 14:19:42,000Driver
+set the path of drive executable2017-11-13 14:40:07,194Driver
+open chrome browser2017-11-13 14:40:07,201Driver
+enter the url2017-11-13 14:40:11,858Driver
+Script count:52017-11-13 14:40:15,633Driver
+Script:Sheet1 Execute:yes2017-11-13 14:40:15,775Driver
+Executing Script:Sheet12017-11-13 14:40:15,776Driver
+start-executeSteps2017-11-13 14:40:15,778Driver
+step count:32017-11-13 14:40:15,849Driver
+--------start step:1---------2017-11-13 14:40:15,849Driver
+Desc:Enter 'Admin' in UN2017-11-13 14:40:15,901Driver
+keyword1:enter2017-11-13 14:40:15,957Driver
+keyword2://input[@id='un']2017-11-13 14:40:16,004Driver
+keyword3:admin2017-11-13 14:40:16,064Driver
+end-executeScripts2017-11-13 14:40:16,066Driver
+start-executekeyword2017-11-13 14:40:16,070Driver
+end-executekeyword2017-11-13 14:40:16,287Driver
+--------End step:1---------2017-11-13 14:40:16,287Driver
+--------start step:2---------2017-11-13 14:40:16,287Driver
+Desc:Enter 'qspiders' in PW2017-11-13 14:40:16,348Driver
+keyword1:enter2017-11-13 14:40:16,399Driver
+keyword2://input[@name='pw']2017-11-13 14:40:16,442Driver
+keyword3:qspiders2017-11-13 14:40:16,482Driver
+end-executeScripts2017-11-13 14:40:16,482Driver
+start-executekeyword2017-11-13 14:40:16,483Driver
+end-executekeyword2017-11-13 14:40:16,682Driver
+--------End step:2---------2017-11-13 14:40:16,683Driver
+--------start step:3---------2017-11-13 14:40:16,683Driver
+Desc:click Login2017-11-13 14:40:16,724Driver
+keyword1:click2017-11-13 14:40:16,763Driver
+keyword2://input[@value='login']2017-11-13 14:40:16,810Driver
+keyword3:2017-11-13 14:40:16,891Driver
+end-executeScripts2017-11-13 14:40:16,892Driver
+start-executekeyword2017-11-13 14:40:16,892Driver
+end-executekeyword2017-11-13 14:40:17,095Driver
+--------End step:3---------2017-11-13 14:40:17,096Driver
+Script:Sheet2 Execute:no2017-11-13 14:40:17,213Driver
+Not executing script:Sheet22017-11-13 14:40:17,213Driver
+Script: Execute:2017-11-13 14:40:17,433Driver
+Not executing script:2017-11-13 14:40:17,434Driver
+Script: Execute:2017-11-13 14:40:17,503Driver
+Not executing script:2017-11-13 14:40:17,504Driver
+Script:s Execute:2017-11-13 14:40:17,568Driver
+Not executing script:s2017-11-13 14:40:17,569Driver
+quit the browser2017-11-13 14:40:17,570Driver
+set the path of drive executable2017-11-14 12:45:07,463Driver
+open chrome browser2017-11-14 12:45:07,501Driver
+enter the url2017-11-14 12:45:19,989Driver
+Script count:02017-11-14 12:45:32,676Driver
+quit the browser2017-11-14 12:45:32,677Driver
+set the path of drive executable2017-11-14 12:46:21,624Driver
+open chrome browser2017-11-14 12:46:21,632Driver
+enter the url2017-11-14 12:46:26,229Driver
+Script count:02017-11-14 12:46:29,996Driver
+quit the browser2017-11-14 12:46:29,996Driver
+set the path of drive executable2017-11-14 12:51:41,328Driver
+open chrome browser2017-11-14 12:51:41,347Driver
+enter the url2017-11-14 12:51:47,606Driver
+Script count:02017-11-14 12:51:52,291Driver
+quit the browser2017-11-14 12:51:52,291Driver
+set the path of drive executable2017-11-14 12:53:18,420Driver
+open chrome browser2017-11-14 12:53:18,426Driver
+enter the url2017-11-14 12:53:23,090Driver
+Script count:02017-11-14 12:53:26,865Driver
+quit the browser2017-11-14 12:53:26,865Driver
+set the path of drive executable2017-11-14 12:56:14,145Driver
+open chrome browser2017-11-14 12:56:14,150Driver
+enter the url2017-11-14 12:56:18,951Driver
+Script count:02017-11-14 12:56:22,773Driver
+quit the browser2017-11-14 12:56:22,774Driver
+set the path of drive executable2017-11-14 12:59:09,585Driver
+Script count:02017-11-14 12:59:13,071Driver
+quit the browser2017-11-14 12:59:13,072Driver
+set the path of drive executable2017-11-14 12:59:32,675Driver
+Script count:02017-11-14 12:59:36,116Driver
+quit the browser2017-11-14 12:59:36,116Driver
+set the path of drive executable2017-11-14 13:02:25,692Driver
+Script count:02017-11-14 13:02:29,128Driver
+quit the browser2017-11-14 13:02:29,128Driver
+set the path of drive executable 
+Script count:0 
+quit the browser 
+set the path of drive executable 
+Script count:0 
+quit the browser 
+set the path of drive executable 
+Script count:2 
+open chrome browser 
+enter the url 
+Script:Sheet1 Execute:yes 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+open chrome browser 
+enter the url 
+Script:Sheet2 Execute:yes 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+set the path of drive executable 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+set the path of drive executable 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+set the path of drive executable 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+set the path of drive executable 
+Suite execution started 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script is Passed:Sheet1 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script is Passed:Sheet2 
+------------------------------------------ 
+Total PASS:2 
+Total FAIL:0 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script is Passed:Sheet1 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script is Passed:Sheet1 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+quit the browser 
+Script is Passed:Sheet1 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./smile.png./smile.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:/smile.png/smile.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:photo/smile.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/smile.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/smile.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/Sheet2_15_11_17_02_25_04.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:3--------- 
+Samepage 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/Sheet2_15_11_17_02_39_59.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/Forfailur/Sheet2_15_11_17_03_00_08.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:qspiders 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://input[@value='login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@id='un'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'qspiders' in PW 
+keyword1:enter 
+keyword2://input[@name='pw'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:select 
+keyword2://input[@value='ERROR'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Invalid keyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/ForFailure/Sheet2_15_11_17_03_02_05.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_15_11_17_03_10_26.png 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/KeyDriven/Demo.html 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[.='Tasks'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_10_35.png 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_15_40.png 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[.='Tasks'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_15_41.png 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[text()='Tasks'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_16_44.png 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[.='Tasks'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_31_05.png 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_01_32_14.png 
+--------End step:5--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:0 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:2 
+Total FAIL:0 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Element is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_02_38_19.png 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_02_38_21.png 
+--------End step:6--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Element is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/ForEachPage/Sheet2_16_11_17_02_38_48.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:8 
+--------start step:1--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_03_21_28.png 
+--------End step:8--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:7 
+--------start step:1--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:verify that error message is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(.='invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+Script is Failed:Sheet2 
+Taking Screenshot:./photo/ForEachPage/Sheet2_16_11_17_03_21_38.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:8 
+--------start step:1--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_03_24_05.png 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_16_11_17_03_24_07.png 
+--------End step:8--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet2 
+start-executeSteps 
+step count:7 
+--------start step:1--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:abc 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:xyz 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:verify that error message is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(.,'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(.,'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+end of script:Sheet2 
+Script is Passed:Sheet2 
+quit the browser 
+------------------------------------------ 
+Total PASS:2 
+Total FAIL:0 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:10 
+--------start step:1--------- 
+Desc:Verify Login page is displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME-Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME-Login 
+Actual Title:actiTIME - Login 
+FAIL:Element is not Matching even after:5sec 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_20_11_17_01_59_03.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:11 
+--------start step:1--------- 
+Desc:verify url 
+keyword1:verifyURLContains 
+keyword2:thaniksha:8602 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:thaniksha:8602 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login page is displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:8--------- 
+--------start step:9--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:9--------- 
+--------start step:10--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_20_11_17_02_23_42.png 
+--------End step:10--------- 
+--------start step:11--------- 
+Desc:Verify Home page is displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME-Enter 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME-Enter 
+Actual Title:actiTIME - Login 
+FAIL:Element is not Matching even after:5sec 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_20_11_17_02_23_48.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:11 
+--------start step:1--------- 
+Desc:verify url 
+keyword1:verifyURLContains 
+keyword2:thaniksha:8602 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:thaniksha:8602 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login page is displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify thar username is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Verify thar password is present 
+keyword1:verifyElementPresent 
+keyword2://input[@name='pwd'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://input[@name='pwd'] 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:Verify thar login button is present 
+keyword1:verifyElementPresent 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://a[.='Login'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:Enter 'Admin' in UN 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:Enter 'MANAGER' in PW 
+keyword1:enter 
+keyword2://input[@name='pwd'] 
+keyword3:manager 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:8--------- 
+--------start step:9--------- 
+Desc:click Tasks 
+keyword1:click 
+keyword2://div[@class='label'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:9--------- 
+--------start step:10--------- 
+Desc:click LogOut 
+keyword1:click 
+keyword2://a[@class='logout'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/Sheet1_20_11_17_02_51_14.png 
+--------End step:10--------- 
+--------start step:11--------- 
+Desc:Verify Home page is displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME-Enter 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME-Enter 
+Actual Title:actiTIME - Login 
+FAIL:Element is not Matching even after:5sec 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_20_11_17_02_51_20.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@id='headerContainer'] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_37_44.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@class='header'] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+actual Text:Please identify yourself 
+Fail: Element is not Matching 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_49_43.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(text()='header')] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_51_46.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(text()='urself')] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_52_59.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(text(),'urself')] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_53_56.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(.='urself')] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_55_14.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(.='please identify urself')] 
+keyword3:please identify urself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify urself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_10_56_38.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(.='yourself')] 
+keyword3:please identify yourself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify yourself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_01_03_30.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[@contains(.,'yourself')] 
+keyword3:please identify yourself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify yourself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_01_06_52.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[.='please identify yourself'] 
+keyword3:please identify yourself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:please identify yourself 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_01_09_49.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:6 
+--------start step:1--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyTitle 
+keyword2:actiTIME - Login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected Title:actiTIME - Login 
+PASS:Title is Matching: 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Verify Login Page is Displayed 
+keyword1:verifyURLContains 
+keyword2:login 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Expected URL fraction:login 
+PASS:Actual url contains Expected URL fraction 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:Verify User Name  is Displayed 
+keyword1:verifyElementIsEnabled 
+keyword2://input[@name='username'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Enabled://input[@name='username'] 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Select the Check box 
+keyword1:click 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify check box is selected 
+keyword1:verifyElementIsselected 
+keyword2://input[@type='checkbox'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+pass:Element is Selected://input[@type='checkbox'] 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:verify the test 
+keyword1:verifyText 
+keyword2://td[.='Please identify yourself'] 
+keyword3:Please identify yourself 
+end-executeScripts 
+start-executekeyword 
+Expected Text:Please identify yourself 
+actual Text:Please identify yourself 
+pass:Element is Matching 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains9text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_02_03_17.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains9text(),'invalid')] 
+keyword3:5 
+end-executeScripts 
+start-executekeyword 
+Timeout is:5 
+FAIL:Element is not present even after:5sec 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_02_04_18.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifycolor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:4 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Arial 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Arial 
+Fail: font is not matching for:Arial 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_02_08_21.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:4 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify err msg font size 9pt 
+keyword1:verifyFontSize 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:9pt 
+end-executeScripts 
+start-executekeyword 
+Actual FontSize:12px 
+Expected FontSize:9pt 
+Fail: fontsize is not matching for:9pt 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_02_35_12.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify err msg font size 9pt 
+keyword1:verifyFontSize 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:9pt 
+end-executeScripts 
+start-executekeyword 
+Actual FontSize:12px 
+Expected FontSize:9pt 
+Fail: fontsize is not matching for:9pt 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_21_11_17_05_55_30.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify err msg font size 9pt 
+keyword1:verifyFontSize 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:12px 
+end-executeScripts 
+start-executekeyword 
+Actual FontSize:12px 
+Expected FontSize:12px 
+Pass: fontsize is matching for:12px 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify err msg font size 12px 
+keyword1:verifyFontSize 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:12px 
+end-executeScripts 
+start-executekeyword 
+Actual FontSize:12px 
+Expected FontSize:12px 
+Pass: fontsize is matching for:12px 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:Click Login 
+keyword1:click 
+keyword2://a[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:verify err msg is displayed 
+keyword1:verifyElementPresent 
+keyword2://span[contains(text(),'invalid')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+No Timeout 
+PASS:Element is present://span[contains(text(),'invalid')] 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:verify err msg is in red color 
+keyword1:verifyColor 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:#ce0100 
+end-executeScripts 
+start-executekeyword 
+Actual color code:#ce0100 
+Expected color code:#ce0100 
+Pass: color is matching for:#ce0100 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:verify err msg is in font type 
+keyword1:verifyFontType 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:Verdana, Arial, Helvetica, sans-serif 
+end-executeScripts 
+start-executekeyword 
+Actual Font:Verdana, Arial, Helvetica, sans-serif 
+Expected Font:Verdana, Arial, Helvetica, sans-serif 
+Pass: font is matching for:Verdana, Arial, Helvetica, sans-serif 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:verify err msg font size 12px 
+keyword1:verifyFontSize 
+keyword2://span[contains(text(),'invalid')] 
+keyword3:12px 
+end-executeScripts 
+start-executekeyword 
+Actual FontSize:12px 
+Expected FontSize:12px 
+Pass: fontsize is matching for:12px 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/actionsdemo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:9 
+--------start step:1--------- 
+Desc:Select By Index 
+keyword1:selectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:0 
+end-executeScripts 
+start-executekeyword 
+Selecting option in listbox using index:0 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Deselect by index 
+keyword1:deselectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:0 
+end-executeScripts 
+start-executekeyword 
+DeSelecting option in listbox using index:0 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:select By Value 
+keyword1:selectOptionByValue 
+keyword2://select[@id='s1'] 
+keyword3:1 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_23_11_17_03_13_56.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/actionsdemo.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:9 
+--------start step:1--------- 
+Desc:Select By Index 
+keyword1:selectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:0 
+end-executeScripts 
+start-executekeyword 
+Selecting option in listbox using index:0 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:Deselect by index 
+keyword1:deselectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:0 
+end-executeScripts 
+start-executekeyword 
+DeSelecting option in listbox using index:0 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:select By Value 
+keyword1:selectOptionByValue 
+keyword2://select[@id='s1'] 
+keyword3:i 
+end-executeScripts 
+start-executekeyword 
+selecting option in listbox using value:i 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:Deselect by Value 
+keyword1:deselectOptionByValue 
+keyword2://select[@id='s1'] 
+keyword3:i 
+end-executeScripts 
+start-executekeyword 
+Deselecting option in listbox using value:i 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:select By Text 
+keyword1:selectOptionByText 
+keyword2://select[@id='s1'] 
+keyword3:Idly 
+end-executeScripts 
+start-executekeyword 
+selecting option in listbox using text:Idly 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc:deselect By Text 
+keyword1:deselectOptionByText 
+keyword2://select[@id='s1'] 
+keyword3:Idly 
+end-executeScripts 
+start-executekeyword 
+deselecting option in listbox using text:Idly 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc:Select By Index 
+keyword1:selectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:0 
+end-executeScripts 
+start-executekeyword 
+Selecting option in listbox using index:0 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc:Select By Index 
+keyword1:selectOptionByIndex 
+keyword2://select[@id='s1'] 
+keyword3:1 
+end-executeScripts 
+start-executekeyword 
+Selecting option in listbox using index:1 
+end-executekeyword 
+Samepage 
+--------End step:8--------- 
+--------start step:9--------- 
+Desc:DeselectAll 
+keyword1:deselectAllOptions 
+keyword2://select[@id='s1'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+selecting option in listbox 
+end-executekeyword 
+Samepage 
+--------End step:9--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/page2.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:13 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_23_11_17_03_51_17.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/page2.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:13 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_23_11_17_03_53_10.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/page1.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:13 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc: 
+keyword1:switchToFrameByIndex 
+keyword2:0 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+switching in to frame by index:0 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t2'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc: 
+keyword1:exitFromFrameToPage 
+keyword2: 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+exiting from Frame to Page 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:b 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc: 
+keyword1:switchToFrameByIdOrName 
+keyword2:t1 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:Sheet1 
+Taking Screenshot:./photo/ForEachPage/Sheet1_23_11_17_03_54_47.png 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:2 
+Script:Sheet1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/page1.html 
+Executing Script:Sheet1 
+start-executeSteps 
+step count:13 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc: 
+keyword1:switchToFrameByIndex 
+keyword2:0 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+switching in to frame by index:0 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t2'] 
+keyword3:a 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc: 
+keyword1:exitFromFrameToPage 
+keyword2: 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+exiting from Frame to Page 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:b 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:5--------- 
+--------start step:6--------- 
+Desc: 
+keyword1:switchToFrameByIdOrName 
+keyword2:f1 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+switching in to frame by Id or Nmae:f1 
+end-executekeyword 
+Samepage 
+--------End step:6--------- 
+--------start step:7--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t2'] 
+keyword3:b 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:7--------- 
+--------start step:8--------- 
+Desc: 
+keyword1:exitFromFrameToPage 
+keyword2: 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+exiting from Frame to Page 
+end-executekeyword 
+Samepage 
+--------End step:8--------- 
+--------start step:9--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:c 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:9--------- 
+--------start step:10--------- 
+Desc: 
+keyword1:switchToFrameByAddress 
+keyword2://iframe[@name='n1'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+switching in to frame by address://iframe[@name='n1'] 
+end-executekeyword 
+Samepage 
+--------End step:10--------- 
+--------start step:11--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t2'] 
+keyword3:c 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:11--------- 
+--------start step:12--------- 
+Desc: 
+keyword1:exitFromFrameToParent 
+keyword2: 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+exiting from Frame to Parent 
+end-executekeyword 
+Samepage 
+--------End step:12--------- 
+--------start step:13--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@id='t1'] 
+keyword3:d 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:13--------- 
+end of script:Sheet1 
+Script is Passed:Sheet1 
+quit the browser 
+Script:Sheet2 Execute:no 
+Not executing script:Sheet2 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+end of script:ValidLogin 
+Script is Passed:ValidLogin 
+quit the browser 
+Script:invalidlogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:invalidlogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc:Enter invalid in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:abcd 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:invalidlogin 
+Taking Screenshot:./photo/ForFailure/invalidlogin_24_11_17_03_18_02.png 
+quit the browser 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+end of script:ValidLogin 
+Script is Passed:ValidLogin 
+quit the browser 
+Script:invalidlogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:invalidlogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc:Enter invalid in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:abcd 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:invalidlogin 
+Taking Screenshot:./photo/ForFailure/invalidlogin_24_11_17_03_22_18.png 
+quit the browser 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+end of script:ValidLogin 
+Script is Passed:ValidLogin 
+quit the browser 
+Script:invalidlogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:invalidlogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc:Enter invalid in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:abcd 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:invalidlogin 
+Taking Screenshot:./photo/ForFailure/invalidlogin_24_11_17_06_36_22.png 
+quit the browser 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc: 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+end of script:ValidLogin 
+Script is Passed:ValidLogin 
+quit the browser 
+Script:invalidlogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:invalidlogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc:Enter invalid in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:abcd 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:invalidlogin 
+Taking Screenshot:./photo/ForFailure/invalidlogin_27_11_17_01_33_30.png 
+quit the browser 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:1 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://thaniksha:8602/login.do 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:2 
+--------start step:1--------- 
+Desc: 
+keyword1:SearchListBox 
+keyword2://select[@id='slv'] 
+keyword3:Idly 
+end-executeScripts 
+Script is Failed:ValidLogin 
+Taking Screenshot:./photo/ForFailure/ValidLogin_27_11_17_02_33_02.png 
+quit the browser 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/xpath/Hotel.html 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:2 
+--------start step:1--------- 
+Desc: 
+keyword1:SearchListBox 
+keyword2://select[@id='slv'] 
+keyword3:Idly 
+end-executeScripts 
+start-executekeyword 
+SearchingIdlyin listbox //select[@id='slv'] 
+comparing with:Idly 
+PASS: option found is listbox 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc: 
+keyword1:IsListBoxSorted 
+keyword2://select[@id='slv'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+FAIL:list box is not in sorted order 
+Script is Failed:ValidLogin 
+Taking Screenshot:./photo/ForFailure/ValidLogin_27_11_17_02_34_31.png 
+quit the browser 
+Script:invalidlogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/xpath/Hotel.html 
+Executing Script:invalidlogin 
+start-executeSteps 
+step count:1 
+--------start step:1--------- 
+Desc:Enter invalid in UN 
+keyword1:enter 
+keyword2://input[@name='un'] 
+keyword3:abcd 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:invalidlogin 
+Taking Screenshot:./photo/ForFailure/invalidlogin_27_11_17_02_34_45.png 
+quit the browser 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:2 
+Total Scripts executed:2 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:3 
+Script:ValidLogin Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:file:///C:/Users/asus/Desktop/Listboxdemo.html 
+Executing Script:ValidLogin 
+start-executeSteps 
+step count:3 
+--------start step:1--------- 
+Desc: 
+keyword1:SearchListBox 
+keyword2://select[@id='s1'] 
+keyword3:Idly 
+end-executeScripts 
+start-executekeyword 
+SearchingIdlyin listbox //select[@id='s1'] 
+comparing with:Dosa 
+comparing with:Idly 
+PASS: option found is listbox 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc: 
+keyword1:IsListBoxSorted 
+keyword2://select[@id='s1] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:ValidLogin 
+Taking Screenshot:./photo/ForFailure/ValidLogin_27_11_17_03_26_43.png 
+quit the browser 
+Script:invalidlogin Execute:no 
+Not executing script:invalidlogin 
+Script:ValidCustomer Execute:no 
+Not executing script:ValidCustomer 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:1 
+Script:ValidLogin1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://localhost/app/admin 
+Executing Script:ValidLogin1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:enter valid username 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:enter valid password 
+keyword1:enter 
+keyword2://input[@name='password'] 
+keyword3:admin1 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://button[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/ValidLogin1_28_11_17_09_30_56.png 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click admin 
+keyword1:click 
+keyword2://a[.='admin'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click Logout 
+keyword1:click 
+keyword2://a[contains(.='Logout')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:ValidLogin1 
+Taking Screenshot:./photo/ForFailure/ValidLogin1_28_11_17_09_30_57.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:1 
+Script:ValidLogin1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://localhost/app/admin 
+Executing Script:ValidLogin1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:enter valid username 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:enter valid password 
+keyword1:enter 
+keyword2://input[@name='password'] 
+keyword3:admin1 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://button[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/ValidLogin1_28_11_17_09_40_48.png 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click admin 
+keyword1:click 
+keyword2://a[.='admin'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click Logout 
+keyword1:click 
+keyword2://a[contains(.,'Logout')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/ValidLogin1_28_11_17_09_40_49.png 
+--------End step:5--------- 
+end of script:ValidLogin1 
+Script is Passed:ValidLogin1 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:1 
+Script:ValidLogin1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://localhost/app/admin 
+Executing Script:ValidLogin1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:enter valid username 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:ValidLogin1 
+Taking Screenshot:./photo/ForFailure/ValidLogin1_29_11_17_12_35_24.png 
+quit the browser 
+------------------------------------------ 
+Total PASS:0 
+Total FAIL:1 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
+set the path of drive executable 
+Suite execution started 
+Script count:1 
+Script:ValidLogin1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://localhost/app/admin 
+Executing Script:ValidLogin1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:enter valid username 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+Script is Failed:ValidLogin1 
+Taking Screenshot:./photo/ForFailure/ValidLogin1_29_11_17_12_40_03.png 
+quit the browser 
+set the path of drive executable 
+Suite execution started 
+Script count:1 
+Script:ValidLogin1 Execute:yes 
+open chrome browser 
+Set ITO:10Sec 
+enter the url:http://localhost/app/admin 
+Executing Script:ValidLogin1 
+start-executeSteps 
+step count:5 
+--------start step:1--------- 
+Desc:enter valid username 
+keyword1:enter 
+keyword2://input[@name='username'] 
+keyword3:admin 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:1--------- 
+--------start step:2--------- 
+Desc:enter valid password 
+keyword1:enter 
+keyword2://input[@name='password'] 
+keyword3:admin1 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:2--------- 
+--------start step:3--------- 
+Desc:click Login 
+keyword1:click 
+keyword2://button[.='Login'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/ValidLogin1_29_11_17_12_42_21.png 
+--------End step:3--------- 
+--------start step:4--------- 
+Desc:click admin 
+keyword1:click 
+keyword2://a[.='admin'] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Samepage 
+--------End step:4--------- 
+--------start step:5--------- 
+Desc:click Logout 
+keyword1:click 
+keyword2://a[contains(.,'Logout')] 
+keyword3: 
+end-executeScripts 
+start-executekeyword 
+end-executekeyword 
+Different page, so taking screenshot 
+Taking Screenshot:./photo/ForEachPage/ValidLogin1_29_11_17_12_42_22.png 
+--------End step:5--------- 
+end of script:ValidLogin1 
+Script is Passed:ValidLogin1 
+quit the browser 
+------------------------------------------ 
+Total PASS:1 
+Total FAIL:0 
+Total Scripts executed:1 
+------------------------------------------ 
+Suite execution completed 
